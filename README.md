@@ -13,4 +13,4 @@ O projeto consiste na criação de um jogo utilizando a biblioteca PyGame em Pyt
 - Redução de vidas do jogador após colisões.
 - Movimentação do personagem principal nas direções: direita, esquerda, cima e baixo.
 - Movimentação dos inimigos nas direções: direita e esquerda.
-- Utilização de poderes pelo personagem principal através da tecla 'espaço'.
+- Utilização de poderes pelo personagem principal através da tecla 'x'.
